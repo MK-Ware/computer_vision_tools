@@ -10,5 +10,6 @@ ________________________________________________________________________________
      or: https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
      
 -matplotlib: https://pypi.python.org/pypi/matplotlib
+
 -numpy: https://pypi.python.org/pypi/numpy
 _________________________________________________________________________________________________________________
